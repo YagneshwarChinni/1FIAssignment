@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to collaboratively edit and manage documents in real-time, enhancing productivity and seamless teamwork across projects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
